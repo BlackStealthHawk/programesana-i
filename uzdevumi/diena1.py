@@ -1,2 +1,1 @@
 print("stradaju no apakšmapes")
- 
